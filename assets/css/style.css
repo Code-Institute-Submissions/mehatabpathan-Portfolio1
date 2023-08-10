@@ -98,16 +98,19 @@ main {
 }
 
 #cover-text {
-    /* Final rgba value sets the opacity so it is semi-transparent */
-    
-    color: #3a3a3a;
-    font-size:150%;
-    position:absolute;
+    font-size: 200%;
+    text-align:center;
+    bottom: 30px;
     min-height: 200px;
-    padding-top: 60px;
     padding-left: 10px;
-   
-   }
+    padding-right:50px;
+}
+
+#cover-text > h1{
+    color: #ffffff;
+    
+}
+
 
 
 /* Footer */
