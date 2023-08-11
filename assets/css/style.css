@@ -217,6 +217,9 @@ button {
     height: auto;
     padding: 10px 0px;
 }
+.active {
+    border-bottom: 1px solid #3a3a3a;
+}
 
 .custom_menu {
     width: 100%;

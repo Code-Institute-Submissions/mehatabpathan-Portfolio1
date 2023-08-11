@@ -2,43 +2,52 @@
 <html lang="en">
 
     <head>
-        <meta charset="UTF-8">
+        <!-- basic -->
+        <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <!-- Meta tags for search engines -->
-        <meta name="description"
-            content="Love Running. Club for runners in Dublin, Ireland. Urban running, trail running. Dublin docklands and Phoenix Park">
-        <meta name="keywords" content="love running, run, running club, runners, Ireland, Dublin, sport, exercise">
-        <!-- Title -->
-        <title>Eflyer</title>
-        <!-- Favicon1 -->
-        <link rel="shopping-icon96.png" sizes="96x96" href="assets/favicon1/shopping-icon96.png">
-        <link rel="shopping-icon48.png" type="image/png" sizes="48x48" href="assets/favicon1/shopping-icon48.png">
-        
-        <!-- Stylesheet -->
-        <link rel="stylesheet" href="assets/css/style.css">
-    </head>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <!-- mobile metas -->
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+        <!-- site metas -->
+        <title>Shopping</title>
+        <meta name="keywords" content="">
+        <meta name="description" content="">
+        <meta name="author" content="">
+        <!-- bootstrap css -->
+        <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
+        <!-- style css -->
+        <link rel="stylesheet" type="text/css" href="assets/css/style.css">
+    
+        <!-- fevicon -->
+        <link rel="icon" href="/assets/images/fevicon.png" type="image/gif" />
+       
+        <!-- font awesome -->
+        <link rel="stylesheet" type="text/css" href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+     </head>
     
 
 <body>
     <!-- Header -->
     <header>
-        <a href="index.html">
-            <h1 id="logo">Eflyer</h1>
-        </a>
-        <input type="checkbox" id="nav-toggle" name="nav-toggle">
-        <label for="nav-toggle" class="nav-toggle-label">
-            <i class="fa-solid fa-bars"></i>
-        </label>
-        <nav>
-            <ul id="menu">
-                <li><a href="index.html" >Home</a></li>
-                <li><a href="fashion.html" >Fashion</a></li>
-                <li><a href="jewellery.html" >Jewellery</a></li>
-                <li><a href="signup.html" class="active">Sign Up</a></li>
-            </ul>
-        </nav>
-    </header>
+        
+        <!-- header section start -->
+        <div class="header_section">
+           <div class="container">
+              <div class="containt_main">
+                 <div id="mySidenav" class="sidenav">
+                    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+                    <a href="index.html">Home</a>
+                    <a href="index.html">Fashion</a>
+                    <a href="index.html">Electronic</a>
+                    <a href="index.html">Jewellery</a>
+                    <a href="signup.html" class="active"></a>Sign Up</a>
+                 </div>
+                 <span class="toggle_icon" onclick="openNav()"><img src="assets/images/toggle-icon.png"></span>
+              </div>
+           </div>
+        </div>
+       </header>
 
     <!-- Main content -->
     <main>
