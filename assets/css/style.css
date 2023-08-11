@@ -217,9 +217,6 @@ button {
     height: auto;
     padding: 10px 0px;
 }
-.active {
-    border-bottom: 1px solid #3a3a3a;
-}
 
 .custom_menu {
     width: 100%;
@@ -747,6 +744,58 @@ a:hover {
     background-color: #f26522;
 }
 
+/* register form*/
+
+#register {
+    background-image: url("../images/signuppage.png");
+    background-size: cover;
+    background-position: 75%;
+    padding: 20px 10% 0 10%;
+    flex-grow: 1;
+}
+
+
+#register-form {
+    color: #ffffff;
+    background-color: rgba(60, 60, 60, 0.6);
+    padding: 30px;
+}
+
+
+#register-form>h2 {
+    color: #fafafa;
+    margin-bottom: 20px;
+}
+
+
+.text-input {
+    background: transparent;
+    color: #fafafa;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+    padding: 0 5px;
+}
+
+
+.radio-buttons {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.join-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px;
+    font-size: 100%;
+    background-color: #454b1b;
+    color: #fafafa;
+}
+
 
 /* loader bar css start */
 
@@ -820,35 +869,4 @@ a:hover {
 /* footer section end */
 
 
-/* copyright section start */
 
-.copyright_section {
-    width: 100%;
-    float: left;
-    background-color: #252525;
-    height: auto;
-}
-
-.copyright_text {
-    width: 100%;
-    float: left;
-    color: #ffffff;
-    text-align: center;
-    font-size: 16px;
-    margin: 20px 0px;
-}
-
-.copyright_text a {
-    color: #ffffff;
-}
-
-.copyright_text a:hover {
-    color: #f26522;
-}
-
-.margin_top90 {
-    margin-top: 90px;
-}
-
-
-/* copyright section end */
