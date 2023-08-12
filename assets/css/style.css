@@ -335,6 +335,7 @@ button {
     display: flex;
 }
 
+
 .dropdown,
 .dropleft,
 .dropright,
@@ -581,8 +582,7 @@ a:hover {
 .tshirt_img {
     width: 100%;
     text-align: center;
-    margin: 50px 0px;
-    min-height: 370px;
+    margin: 25px 0px;
 }
 
 .btn_main {
@@ -665,8 +665,7 @@ a:hover {
 .electronic_img {
     width: 100%;
     text-align: center;
-    margin: 50px 0px;
-    min-height: 293px;
+    margin: 25px 0px;
 }
 
 #electronic_main_slider a.carousel-control-next {
@@ -712,8 +711,7 @@ a:hover {
 .jewellery_img {
     width: 100%;
     text-align: center;
-    margin: 50px 0px;
-    min-height: 293px;
+    margin: 25px 0px;
 }
 
 #jewellery_main_slider a.carousel-control-next {
