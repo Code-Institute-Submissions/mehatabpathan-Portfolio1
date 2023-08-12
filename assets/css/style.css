@@ -744,12 +744,15 @@ a:hover {
 
 /* register form*/
 
-#register {
-    background-image: url("../images/registerimg.png");
-    background-size: cover;
-    background-position: 75%;
-    padding: 20px 10% 0 10%;
-    flex-grow: 1;
+body {
+    background-image: url("../images/registerimg.jpg");
+    background-attachment : fixed;
+    background-position   : 50% 50%;     /* or: center center */
+    background-size       : cover;       /* CSS3 */
+    text-align: center;
+}
+form {
+    display: inline-block;
 }
 
 
