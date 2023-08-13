@@ -37,20 +37,37 @@
             <form id="register-form" method="POST" action="https://formdump.codeinstitute.net">
                 <h2>REGISTER!</h2>
                 <label for="first_name">First Name</label>
-                <input type="text" name="first_name" id="first_name" class="text-input" required>
+                <input type="text" name="first_name" id="first_name" class="text-input" placeholder="Enter Details" required>
                 <br>
                 <label for="last_name">Last Name</label>
-                <input type="text" name="last_name" id="last_name" class="text-input" required>
+                <input type="text" name="last_name" id="last_name" class="text-input" placeholder="Enter Details" required>
                 <br>
                 <label for="email_address">Email Address</label>
-                <input type="email" name="email_address" id="email_address" class="text-input" required>
+                <input type="email" name="email_address" id="email_address" class="text-input" placeholder="Enter Details" required>
                 <br>
-                <button type="register" class="join-button">Register</button>
+                <label for="gender">Select Gender</label>
+                <span style="visibility: hidden;">fjsdk</span>
+                <select name="gender" id="gender" class="text-input">
+                    <option value="Select Option">Select Option</option>
+                    <option value="Male">Male</option>
+                    <option value="Female">Female</option>
+                  </select>
+                  <br>
+                <label for="phone_number">Phone Number</label>
+                <input type="tel" id="phone" name="phone_number" id="phone_number" class="text-input" placeholder="Enter Details" required>
+                <br>
+                <center><button type="register" class="join-button">Register</button></center>
             </form>
         </section>
 
     </main>
-   
+    <script>
+        const phoneInputField = document.querySelector("#phone");
+        const phoneInput = window.intlTelInput(phoneInputField, {
+          utilsScript:
+            "https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/utils.js",
+        });
+      </script>
 </body>
 
 </html>
