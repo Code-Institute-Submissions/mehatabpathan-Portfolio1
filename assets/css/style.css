@@ -744,27 +744,12 @@ a:hover {
 
 /* register form*/
 
- registerbody {
+#register {
     background-image: url("../images/registerimg.jpg");
-    background-attachment : fixed;
-    background-position   : 50% 50%;     /* or: center center */
-    background-size       : cover;       /* CSS3 */
-    text-align: center;
-}
-section.form
-{
-    display: block;
-    text-align: center;
-    padding-top:20%;
-    margin-top: auto;
-    margin-bottom: auto;
-}
-form {
-    display: inline-block;
-    
-    margin-left: auto;
-    margin-right: auto;
-    text-align: left;
+    background-size: cover;
+    background-position: 75%;
+    padding: 20px 10% 0 10%;
+    flex-grow: 1;
 }
 
 
@@ -772,7 +757,6 @@ form {
     color: #ffffff;
     background-color: rgba(60, 60, 60, 0.6);
     padding: 30px;
-    
 }
 
 
@@ -809,7 +793,6 @@ form {
     background-color: #454b1b;
     color: #fafafa;
 }
-
 
 /* loader bar css start */
 
