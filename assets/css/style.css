@@ -744,7 +744,7 @@ a:hover {
 
 /* register form*/
 
-body {
+ register {
     background-image: url("../images/registerimg.jpg");
     background-attachment : fixed;
     background-position   : 50% 50%;     /* or: center center */
