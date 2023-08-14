@@ -1,57 +1,59 @@
-      
- ###shoppers stop
+# Shoppers Stop
 
- Shoppers Stop ecommerce website is a responsive website that
+Shoppers Stop ecommerce website is a responsive website that provides the user with information about a musician, to be able to see and hear what they perform and how to contact them to book them for a potential booking.
 
-Shoppers Stop Responive website:(assets/images/responsiveimg.png)
+![Shoppers Stop Responive website](assets/images/responsiveimg.png)
 
-View Shoppers Stop Github pages: https://github.com/mehatabpathan/Portfolio1.git ("View Shoppers Stop Github pages")
+[View Shoppers Stop Github pages](https://github.com/mehatabpathan/Portfolio1.git "View shoppers stsop Github pages")
+[View shoppers stop Live Website](https://mehatabpathan.github.io/Portfolio1/ "View Shoppers stsop Live Website")
 
-Static Badge Static Badge Static Badge
+![Static Badge](https://img.shields.io/badge/Last_Commit-August-red)
+![Static Badge](https://img.shields.io/badge/Contributors-1-blue)
+![Static Badge](https://img.shields.io/badge/Languages-3-green)
 
-###Contents
--Shoppers Stop
--Contents
-Initial Discussion
-Key information for the site
-User Stories
-Client Goals
-First Time Visitor Goals
-Returning Visitor Goals
-Frequent Visitor Goals
-Design
-Colour Scheme
-Typography
-Imagery
-Wireframes
-Home Page
-Setlist Page
-Media Page
-Tour Page
-Contact Page
-Features
-General Features On Each Page
-Home
-Setlist
-Media
-Tour
-Contact
-Future Implementations
-Technologies Used
-Languages Used
-Frameworks, Libraries and Programs Used
-Deployment And Local Development
-Deployment
-Local Development
-How To Fork
-How To Clone
-Testing
-Credits
-Code Used
-Content
-Media
-Acknowledgments
+## Contents
 
+- [Shoppers Stop](#shoppers stop)
+  - [Contents](#contents)
+    - [Initial Discussion](#initial-discussion)
+      - [Key information for the site](#key-information-for-the-site)
+  - [User Stories](#user-stories)
+    - [Client Goals](#client-goals)
+    - [First Time Visitor Goals](#first-time-visitor-goals)
+    - [Returning Visitor Goals](#returning-visitor-goals)
+    - [Frequent Visitor Goals](#frequent-visitor-goals)
+  - [Design](#design)
+    - [Colour Scheme](#colour-scheme)
+    - [Typography](#typography)
+    - [Imagery](#imagery)
+    - [Wireframes](#wireframes)
+      - [Home Page](#home-page)
+      - [Setlist Page](#setlist-page)
+      - [Media Page](#media-page)
+      - [Tour Page](#tour-page)
+      - [Contact Page](#contact-page)
+  - [Features](#features)
+    - [General Features On Each Page](#general-features-on-each-page)
+      - [Home](#home)
+      - [Setlist](#setlist)
+      - [Media](#media)
+      - [Tour](#tour)
+      - [Contact](#contact)
+    - [Future Implementations](#future-implementations)
+  - [Technologies Used](#technologies-used)
+    - [Languages Used](#languages-used)
+    - [Frameworks, Libraries and Programs Used](#frameworks-libraries-and-programs-used)
+  - [Deployment And Local Development](#deployment-and-local-development)
+    - [Deployment](#deployment)
+    - [Local Development](#local-development)
+      - [How To Fork](#how-to-fork)
+      - [How To Clone](#how-to-clone)
+  - [Testing](#testing)
+  - [Credits](#credits)
+    - [Code Used](#code-used)
+    - [Content](#content)
+    - [Media](#media)
+    - [Acknowledgments](#acknowledgments)
 
 ### Initial Discussion
 
@@ -128,7 +130,7 @@ Wireframes we're creating using balsamiq.
 
 #### Home Page
 
-![Home Page: index.html](assets/images/desktop%20main%20page.png "Home Page: index.html")
+![Home Page: index.html](assets/images/homepage.png "Home Page: index.html")
 
 #### Setlist Page
 
@@ -252,6 +254,7 @@ All media used is from my own personal material that I use for promotional purpo
 I'd like to acknowledge the following people for helping me build this website.
 
 - Kera Cudmore for creating a great README.md example <https://docs.google.com/presentation/d/19_7r_To5bu7UjnZD87hrzWQi63Ij0YpaRH1XFnPZZe8/edit#slide=id.g1551aff15c5_1_96> that I have followed to create this README.md file.
+- To Derek King in the slack community for helping me with my breakpoints media queries to optimise the index.html h1 heading and for correct spacing in the footer section.
 - For people in the slack community who are always there to help with coding queries that I have had.
 - For my mentor, Adegbenga for guiding me through issues I had with my site such as the footer section and breakpoints, and helping improve elements of the site to make it more user friendly.
 
