@@ -1,10 +1,57 @@
-      - [How To Fork](#how-to-fork)
-  - [Testing](#testing)
-  - [Credits](#credits)
-    - [Code Used](#code-used)
-    - [Content](#content)
-    - [Media](#media)
-    - [Acknowledgments](#acknowledgments)
+      
+ ###shoppers stop
+
+ Shoppers Stop ecommerce website is a responsive website that
+
+Shoppers Stop Responive website:(assets/images/responsiveimg.png)
+
+View Shoppers Stop Github pages: https://github.com/mehatabpathan/Portfolio1.git ("View Shoppers Stop Github pages")
+
+Static Badge Static Badge Static Badge
+
+###Contents
+-Shoppers Stop
+-Contents
+Initial Discussion
+Key information for the site
+User Stories
+Client Goals
+First Time Visitor Goals
+Returning Visitor Goals
+Frequent Visitor Goals
+Design
+Colour Scheme
+Typography
+Imagery
+Wireframes
+Home Page
+Setlist Page
+Media Page
+Tour Page
+Contact Page
+Features
+General Features On Each Page
+Home
+Setlist
+Media
+Tour
+Contact
+Future Implementations
+Technologies Used
+Languages Used
+Frameworks, Libraries and Programs Used
+Deployment And Local Development
+Deployment
+Local Development
+How To Fork
+How To Clone
+Testing
+Credits
+Code Used
+Content
+Media
+Acknowledgments
+
 
 ### Initial Discussion
 
@@ -53,7 +100,7 @@ This could potentially save the client time by seeing questions answered on the 
 
 ### Colour Scheme
 
-![Website Colour Scheme](assets/images/todd-nathaniel-music-colour-palette.png)
+![Website Colour Scheme](assets/images/coolors.png)
 
 The website uses bright and light colours using HEX numbers for more variety, and also RGB (1, 1, 90) as I wanted to add opacity to certain areas such as the header section (0.8 opacity) with this I later decided that some text was not clear enough with the opacity from the navigation bar which needed to be clear to viewers at all times, but I didn't want to change the colour scheme, so instead simply set the opacity to 1 instead of 0.8. Button hovering i used 0.5 opacity, horizontal rule 0.5 opacity and the .timeline:after dots 0.8 opacity to keep the style continuous to the header colour. I chose this palette to keep the website fun and vibrant so it stands out and attracts potential clients. The #000000 black will be used for text, as well as #ffffff white for coloured background sections such as the hero image text and the "why book me?" section to make it stand out more compared to black text and to also break up the page. The #FF7E33 orange is used for the background colour on the "why book me" section, the #979797 grey will be used for the "why book me?" icons to make them stand out against the orange background. The #87B7FF light blue will be used for buttons and navigation background areas (pre hover) It will also be used as the static colour for the social media icons. The colour palette was created using the Coolors website.
 
