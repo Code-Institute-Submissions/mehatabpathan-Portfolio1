@@ -1,10 +1,10 @@
-# Todd Nathaniel Music
+# Shoppers Stop
 
-Todd Nathaniel Music website is a responsive website that provides the user with information about a musician, to be able to see and hear what they perform and how to contact them to book them for a potential booking.
+Shoppers Stop ecommerce website is a responsive website that
 
 ![Shoppers Stop Responive website](assets/images/responsiveimg.png)
 
-[View Shoppers Stop Github pages](https://github.com/mehatabpathan/Portfolio1.git) "View Todd Nathaniel Music Github pages")
+[View Shoppers Stop Github pages](https://github.com/mehatabpathan/Portfolio1.git) "View Shoppers Stop Github pages")
 
 ![Static Badge](https://img.shields.io/badge/Last_Commit-August-red)
 ![Static Badge](https://img.shields.io/badge/Contributors-1-blue)
@@ -12,7 +12,7 @@ Todd Nathaniel Music website is a responsive website that provides the user with
 
 ## Contents
 
-- [Todd Nathaniel Music](#todd-nathaniel-music)
+- [Shoppers Stop](#Shoppersstop)
   - [Contents](#contents)
     - [Initial Discussion](#initial-discussion)
       - [Key information for the site](#key-information-for-the-site)
