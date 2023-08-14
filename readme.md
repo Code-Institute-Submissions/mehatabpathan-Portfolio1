@@ -2,9 +2,9 @@
 
 Todd Nathaniel Music website is a responsive website that provides the user with information about a musician, to be able to see and hear what they perform and how to contact them to book them for a potential booking.
 
-![Todd Nathaniel Music Responive website](assets/images/responsiveimg.png)
+![Shoppers Stop Responive website](assets/images/responsiveimg.png)
 
-[View Todd Nathaniel Music Github pages](https://github.com/toddnedwards/todd-nathaniel-music.git "View Todd Nathaniel Music Github pages")
+[View Shoppers Stop Github pages](https://github.com/mehatabpathan/Portfolio1.git) "View Todd Nathaniel Music Github pages")
 
 ![Static Badge](https://img.shields.io/badge/Last_Commit-August-red)
 ![Static Badge](https://img.shields.io/badge/Contributors-1-blue)
