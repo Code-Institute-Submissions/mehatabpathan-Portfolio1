@@ -278,8 +278,31 @@ To fork the depository:
 5. Type 'Git Clone' into the terminal and then paste the link you copied in step 3. Press Enter.
 
 ## Testing
+  I Used W3C MarkupValidationService to test my code
 
-[View TESTING.md page](/TESTING.md "View TESTING.md page")
+#### Home Page
+
+![Home Page: index.html](assets/images/indexss.png "Home Page: index.html")
+
+#### clothing Page
+
+![Fashion Page: fashion.html](assets/images/fashionss.png "Fashion Page: fashion.html")
+
+#### Electronics Page
+
+![Electronics Page:electronics.html](assets/images/electronicsss.png "Electronics Page: electropnics.html")
+
+#### Jewellery Page
+
+![Jewellery Page: jewellery.html](assets/images/jewelleryss.png "Jewellery Page: jewellery.html")
+
+#### Register Page
+
+![Register Page: register.html](assets/images/registerss.png "Register Page: register.html")
+
+#### Style CSS 
+
+![style Page: style.css](assets/images/styless.png "style Page: style.css")
 
 ## Credits
 
@@ -289,7 +312,7 @@ For flex box coding, I used <https://philipwalton.github.io/solved-by-flexbox/de
 
 ### Content
 
-All information provided was written by myself. All reviews are real reviews that I have received. All dates and tour dates links are also genuine, along with the social media links that link to my social media pages.
+All information provided was written by myself. All reviews are real reviews that I have received. along with the social media links that link to my social media pages.
 
 ### Media
 
@@ -299,10 +322,10 @@ All media used is from my own personal material that I use for promotional purpo
 
 I'd like to acknowledge the following people for helping me build this website.
 
-- Kera Cudmore for creating a great README.md example <https://docs.google.com/presentation/d/19_7r_To5bu7UjnZD87hrzWQi63Ij0YpaRH1XFnPZZe8/edit#slide=id.g1551aff15c5_1_96> that I have followed to create this README.md file.
-- To Derek King in the slack community for helping me with my breakpoints media queries to optimise the index.html h1 heading and for correct spacing in the footer section.
+
 - For people in the slack community who are always there to help with coding queries that I have had.
-- For my mentor, Adegbenga for guiding me through issues I had with my site such as the footer section and breakpoints, and helping improve elements of the site to make it more user friendly.
+- For my mentor, AntonioRodriquez for guiding me and helping me to improve elements of the site to make it more user friendly.
+- For my toutor, Ed who helped me in the GitHub issue.
 
 <https://docs.google.com/presentation/d/19_7r_To5bu7UjnZD87hrzWQi63Ij0YpaRH1XFnPZZe8/edit#slide=id.g1551aff15c5_1_0>
 
@@ -315,7 +338,7 @@ Shields.io badges we’re created for readme.md file using the markup code from:
 
 The use of the coolors website for the colours graph was provided from <https://github.com/kera-cudmore/Bully-Book-Club#user-experience-ux>
 
-I used this page to find different breakpoints to make certain page elements more responsive to different devices: <https://www.w3schools.com/howto/howto_css_media_query_breakpoints.asp>
+I used this page to find different breakpoints to make certain page elments more responsive to different devices: <https://www.w3schools.com/howto/howto_css_media_query_breakpoints.asp>
 
 I realised this didn’t support smaller devices less than 600px so I googled what was the suggested @media size for small phones which google suggested as
 
