@@ -57,8 +57,17 @@ Shoppers Stop ecommerce website is a responsive website that provides the user w
 
 ### Initial Discussion
 
-Todd Nathaniel Music is a musician page for a solo musician to showcase themselves to potential clients such as venues, parties or brides/grooms for weddings, and bring more awareness what they can supply for the client in terms of what songs they have available in their repertoire, videos that they can watch of the artist performing, upcoming dates so potential clients can go and watch the artist and be aware of their performances.
-This could potentially save the client time by seeing questions answered on the website also such as "what to expect on the day", "how long do you play for" and "what are your prices" etc. It could also save the musician time by referring possible clients to the website so they can see all information clearly laid out with all the information needed to book them for event, rather than sending potential clients information over every time.
+Welcome to Shoppers Stop, your ultimate destination for a captivating and seamless shopping experience. With a legacy that spans years of excellence, Shoppers Stop has established itself as a premier fashion and lifestyle retailer, dedicated to fulfilling your every fashion aspiration and lifestyle need.
+
+Fashion takes center stage at Shoppers Stop, with an extensive range of clothing, accessories, and footwear that caters to every individual's style and preferences. From casual chic to elegant formal wear, our curated collection reflects the diversity of your fashion journey.
+
+Discover a world of convenience and innovation in our electronics and gadgets section, where cutting-edge technology meets everyday convenience. From the latest gadgets to home appliances designed to simplify your life, we have the perfect solutions to cater to your modern needs.
+
+Parents and kids alike will delight in our kid's corner, where a delightful range of clothing, and accessories await. Spark joy and imagination in the hearts of your little ones with our curated selection that's sure to put smiles on their faces.
+
+At Shoppers Stop, we're not just about products; we're about creating an unparalleled shopping experience. Our dedicated customer service team is committed to assisting you at every step, ensuring that your journey with us is smooth and satisfying. Multiple payment options and reliable delivery services ensure that your coveted finds reach you in perfect condition and in a timely manner.
+
+As you embark on your shopping adventure with Shoppers Stop, you join a community of fashion enthusiasts, trendsetters, and lifestyle aficionados who have made us their trusted companion in their pursuit of style and sophistication. Experience the epitome of retail excellence at Shoppers Stop, where every visit promises to be a memorable and fulfilling journey.
 
 #### Key information for the site
 
@@ -134,19 +143,28 @@ Wireframes we're creating using balsamiq.
 
 #### clothing Page
 
-![clothing Page:fashion.html](assets/images/clothing page.png "fashion Page: fashion.html")
+![Fashion Page: fashion.html](assets/images/clothing-page.png "Fashion Page: fashion.html")
 
-#### Media Page
+#### Electronics Page
 
-![Electronics Page:electronics.html](assets/images/electronics page.png "Electronics Page: electropnics.html")
+![Electronics Page:electronics.html](assets/images/electronics-page.png "Electronics Page: electropnics.html")
 
-#### Tour Page
+#### Jewellery Page
 
-![Tour Page: tour.html](assets/images/desktop%20tour%20page.png "Tour Page: tour.html")
+![Jewellery Page: jewellery.html](assets/images/jewellery-page.png "Jewellery Page: jewellery.html")
 
-#### Contact Page
+#### Register Page
 
-![Contact Page: contact.html](assets/images/desktop%20contact%20page.png "Contact Page: contact.html")
+![Register Page: register.html](assets/images/register-page.png "Register Page: register.html")
+
+#### Mobile Home Page
+
+![Home Page: index.html](assets/images/mobile-home-page.png "Home Page: index.html")
+
+#### Mobile Register Page
+
+![Register Page: register.html](assets/images/mobile-register-page.png "Register Page: register.html")
+
 
 ## Features
 
