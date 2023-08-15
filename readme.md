@@ -132,13 +132,13 @@ Wireframes we're creating using balsamiq.
 
 ![Home Page: index.html](assets/images/homepage.png "Home Page: index.html")
 
-#### Setlist Page
+#### clothing Page
 
-![Setlist Page: setlist.html](assets/images/desktop%20setlist%20page.png "Setlist Page: setlist.html")
+![clothing Page:fashion.html](assets/images/clothing page.png "fashion Page: fashion.html")
 
 #### Media Page
 
-![Media Page: media.html](assets/images/desktop%20media%20page.png "Media Page: media.html")
+![Electronics Page:electronics.html](assets/images/electronics page.png "Electronics Page: electropnics.html")
 
 #### Tour Page
 
@@ -211,7 +211,7 @@ Shields.io- To add badges to the README file.
 
 ### Deployment
 
-The site is deployed using Github pages- <https://toddnedwards.github.io/todd-nathaniel-music/>
+The site is deployed using Github pages- https://mehatabpathan.github.io/Portfolio1/
 
 ### Local Development
 
@@ -220,13 +220,13 @@ The site is deployed using Github pages- <https://toddnedwards.github.io/todd-na
 To fork the depository:
 
 1. Log in or sign up to <https://github.com/>
-2. Go to the repository for this project <https://github.com/toddnedwards/todd-nathaniel-music>
+2. Go to the repository for this project https://github.com/mehatabpathan/Portfolio1.git
 3. Click the fork button in the top right corner
 
 #### How To Clone
 
 1. Log in or sign up to <https://github.com/>
-2. Go to the repository for this project <https://github.com/toddnedwards/todd-nathaniel-music>
+2. Go to the repository for this project https://github.com/mehatabpathan/Portfolio1.git
 3. Click the code button, select whether you'd like to clone with HTTPS, SSH or GitHub CLI and copy the link shown.
 4. Open the terminal in your code editor and change the current working directory to the location you want to use for the cloned directory.
 5. Type 'Git Clone' into the terminal and then paste the link you copied in step 3. Press Enter.
