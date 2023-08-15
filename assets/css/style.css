@@ -747,7 +747,7 @@ a:hover {
 #register {
     background-image: url("../images/registerimg.jpg");
     background-size: cover;
-    background-position: 75%;
+    background-position: 100%;
     padding: 20px 10% 0 10%;
     flex-grow: 1;
 }
