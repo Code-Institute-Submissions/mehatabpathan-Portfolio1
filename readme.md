@@ -143,20 +143,21 @@ As you embark on your shopping adventure with Shoppers Stop, you join a communit
 
 ![Website Colour Scheme](assets/images/coolors.png)
 
-The website uses bright and light colours using HEX numbers for more variety, and also RGB (1, 1, 90) as I wanted to add opacity to certain areas such as the header section (0.8 opacity) with this I later decided that some text was not clear enough with the opacity from the navigation bar which needed to be clear to viewers at all times, but I didn't want to change the colour scheme, so instead simply set the opacity to 1 instead of 0.8. Button hovering i used 0.5 opacity, horizontal rule 0.5 opacity and the .timeline:after dots 0.8 opacity to keep the style continuous to the header colour. I chose this palette to keep the website fun and vibrant so it stands out and attracts potential clients. The #000000 black will be used for text, as well as #ffffff white for coloured background sections such as the hero image text and the "why book me?" section to make it stand out more compared to black text and to also break up the page. The #FF7E33 orange is used for the background colour on the "why book me" section, the #979797 grey will be used for the "why book me?" icons to make them stand out against the orange background. The #87B7FF light blue will be used for buttons and navigation background areas (pre hover) It will also be used as the static colour for the social media icons. The colour palette was created using the Coolors website.
+The website uses bright and light colours using HEX numbers for more variety, such as the header section (1 opacity) with this I later decided that some text was not clear enough with the opacity from the navigation bar which needed to be clear to viewers at all times, but I didn't want to change the colour scheme, so instead simply set the opacity to 1 instead of 0.8.  I chose this palette to keep the website fun and vibrant so it stands out and attracts potential clients. The #000000 black will be used for text, as well as #ffffff white for coloured background sections such as the banner image text and the i kept #000000 color for hamberger icon and text and #ffff00 color for the background image. The colour palette was created using the Coolors website.
 
 For the HEX codes for the social media hover states, I used google to find out the HEX colours to match the social media"s colours of their logos. These are the colours that google suggested:
 
-Facebook logo: #3b5998
-Instagram logo (purple colour from the instagram logo): #962fbf
-Youtube logo: #c4302b
+Facebook logo: #666666
+Instagram logo: #666666
+Youtube logo: #666666
+twitter: #666666
 
 ### Typography
 
 Google Fonts was used for the following fonts:
 
 - Poppins is used for headings on the site. For all headings I am using the weight of 400. I"ll be using sans-serif as a fallback text incase of any errors with loading google fonts.
-- Poppins is also used for the body text on the site. I"ll be using the weight of 300 for paragraph text and for "book now" section a weight of 400. I"ll be using sans-serif as a fallback text incase of any errors with loading google fonts.
+- Poppins is also used for the body text on the site. I"ll be using the weight of 300 for paragraph text and for for all the section a weight of 400. I"ll be using sans-serif as a fallback text incase of any errors with loading google fonts.
 
 ### Imagery
 
