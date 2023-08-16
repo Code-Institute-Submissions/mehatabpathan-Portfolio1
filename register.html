@@ -5,6 +5,7 @@
     <!-- basic -->
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta http-equiv="Content-Encoding" content="gzip">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- site metas -->
     <title>Shoppers Stop</title>
@@ -80,6 +81,19 @@
             "https://cdnjs.cloudflare.com/ajax/libs/intl-tel-input/17.0.8/js/utils.js",
         });
       </script>
+      <script>
+        function openNav() {
+            document.getElementById("mySidenav").style.width = "250px";
+        }
+
+        function closeNav() {
+            document.getElementById("mySidenav").style.width = "0";
+        }
+        $('.carousel').carousel({
+         interval: false,
+      });
+
+    </script>
 </body>
 
 </html>
