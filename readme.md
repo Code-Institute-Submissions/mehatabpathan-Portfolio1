@@ -28,17 +28,19 @@ Welcome to Shoppers Stop, your ultimate destination for a captivating and seamle
     - [Imagery](#imagery)
     - [Wireframes](#wireframes)
       - [Home Page](#home-page)
-      - [Setlist Page](#setlist-page)
-      - [Media Page](#media-page)
-      - [Tour Page](#tour-page)
-      - [Contact Page](#contact-page)
+      - [Fashion Page](#fashion-page)
+      - [Electronics Page](#electronics-page)
+      - [Jewellery Page](#jewellery-page)
+      - [Register Page](#register-page)
+      - [Mobile Home Page](#mobile-home-page)
+      - [Mobile Rgister Page](#mobile-register-page)
   - [Features](#features)
     - [General Features On Each Page](#general-features-on-each-page)
       - [Home](#home)
-      - [Setlist](#setlist)
-      - [Media](#media)
-      - [Tour](#tour)
-      - [Contact](#contact)
+      - [fashion pahe](#fashion)
+      - [Electronics](#electronics)
+      - [Jewellery](#jewellery)
+      - [Register](#register)
     - [Future Implementations](#future-implementations)
   - [Technologies Used](#technologies-used)
     - [Languages Used](#languages-used)
@@ -216,13 +218,13 @@ This page includes Featured categories are visually appealing sections highlight
 
 This page includes Featured categories are visually appealing sections highlighting specific Electronics categories. Product quick links are thumbnail images or text links that lead to specific product pages or collections. Special offers or deals sections showcase discounts, promotions, or limited-time offers.
 
-#### Jwellery
+#### Jewellery
 
 This page includes Featured categories are visually appealing sections highlighting specific Jwellery categories. Product quick links are thumbnail images or text links that lead to specific product pages or collections. Special offers or deals sections showcase discounts, promotions, or limited-time offers.
 
 #### Register
 
-The register page includes a name,email,genger and phonenumber and submit button.
+The register page includes a name,email,gender and phonenumber and submit button.
 
 ### Future Implementations
 
@@ -305,6 +307,15 @@ To fork the depository:
 
 ![style Page: style.css](assets/images/styless.png "style Page: style.css")
 
+## Bugs
+
+- After deploying the website I found out that the images were broken in the gallery page. This was due to absolute file paths. I fixed it by removing the initial slash and making the file paths relative.
+- In the deployed version, the background images for the rules and get in Register page were not covering the whole section on tablets and larger screens. I fixed it by adding a height property to the sections affected.
+
+## Unsolved Bugs
+
+- None.
+
 ## Credits
 
 ### Code Used
@@ -336,8 +347,6 @@ I used this mark up cheat sheet that I found on the slack community for clear gu
 
 Shields.io badges we’re created for readme.md file using the markup code from:
 <https://shields.io/badges>
-
-The use of the coolors website for the colours graph was provided from <https://github.com/kera-cudmore/Bully-Book-Club#user-experience-ux>
 
 I used this page to find different breakpoints to make certain page elments more responsive to different devices: <https://www.w3schools.com/howto/howto_css_media_query_breakpoints.asp>
 
