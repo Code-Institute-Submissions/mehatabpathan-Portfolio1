@@ -9,7 +9,7 @@ Welcome to Shoppers Stop, your ultimate destination for a captivating and seamle
 
 ![Static Badge](https://img.shields.io/badge/Last_Commit-August-red)
 ![Static Badge](https://img.shields.io/badge/Contributors-1-blue)
-![Static Badge](https://img.shields.io/badge/Languages-3-green)
+![Static Badge](https://img.shields.io/badge/Languages-3-greens)
 
 ## Contents
 
@@ -155,8 +155,8 @@ Youtube logo: #c4302b
 
 Google Fonts was used for the following fonts:
 
-- Roboto is used for headings on the site. For all headings I am using the weight of 700. I"ll be using sans-serif as a fallback text incase of any errors with loading google fonts.
-- Roboto is also used for the body text on the site. I"ll be using the weight of 300 for paragraph text and for "why book me" section a weight of 400. I"ll be using sans-serif as a fallback text incase of any errors with loading google fonts.
+- Poppins is used for headings on the site. For all headings I am using the weight of 400. I"ll be using sans-serif as a fallback text incase of any errors with loading google fonts.
+- Poppins is also used for the body text on the site. I"ll be using the weight of 300 for paragraph text and for "book now" section a weight of 400. I"ll be using sans-serif as a fallback text incase of any errors with loading google fonts.
 
 ### Imagery
 
