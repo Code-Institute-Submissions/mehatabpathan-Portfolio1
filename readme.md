@@ -76,14 +76,6 @@ As you embark on your shopping adventure with Shoppers Stop, you join a communit
 - Homepage Highlights
 - Product Listings
 - Product Details Page
-- Shopping Cart
-- Checkout Process
-- Customer Accounts
-- Customer Support
-- Privacy and Security
-- Shipping and Returns
-- Social Proof and Trust Signals
-- Promotions and News
 - Accessibility and Mobile-Friendliness
 
 ## User Stories
@@ -99,9 +91,6 @@ As you embark on your shopping adventure with Shoppers Stop, you join a communit
 - Increase Average Order Value
 - Enhance Mobile Experience
 - Retain and Build Customer Loyalty
-- Streamline Inventory Management
-- Provide Secure Transactions 
-- Analytics and Insights
 
 ### First Time Visitor Goals
 
@@ -115,8 +104,6 @@ As you embark on your shopping adventure with Shoppers Stop, you join a communit
 - Check Shipping and Payment Options
 - Contact Support if Needed
 - Make a Purchase 
-- Join Loyalty Programs or Subscriptions
-- Engage with Content
 
 ### Returning Visitor Goals
 
@@ -147,7 +134,7 @@ As you embark on your shopping adventure with Shoppers Stop, you join a communit
 
 ![Website Colour Scheme](assets/images/coolors.png)
 
-The website uses bright and light colours using HEX numbers for more variety, such as the header section (1 opacity) with this I later decided that some text was not clear enough with the opacity from the navigation bar which needed to be clear to viewers at all times, but I didn't want to change the colour scheme, so instead simply set the opacity to 1 instead of 0.8.  I chose this palette to keep the website fun and vibrant so it stands out and attracts potential clients. The #000000 black will be used for text, as well as #ffffff white for coloured background sections such as the banner image text and the i kept #000000 color for hamberger icon and text and #ffff00 color for the background image. The colour palette was created using the Coolors website.
+The website uses bright and light colours using HEX numbers for more variety, such as the header section (1 opacity) with this I later decided that some text was not clear enough with the opacity from the navigation bar which needed to be clear to viewers at all times, but I didn't want to change the colour scheme, so instead simply set the opacity to 1 instead of 0.8.  I chose this palette to keep the website fun and vibrant so it stands out and attracts potential clients. The #000000 black will be used for text, as well as #ffffff white for coloured background sections such as the banner image text and the i kept #000000 color for hamberger icon and text and #F0EC57 color for the background image. The colour palette was created using the Coolors website.
 
 For the HEX codes for the social media hover states, I used google to find out the HEX colours to match the social media"s colours of their logos. These are the colours that google suggested:
 
@@ -295,7 +282,7 @@ To fork the depository:
 
 #### Electronics Page
 
-![Electronics Page:electronics.html](assets/images/electronicsss.png "Electronics Page: electropnics.html")
+![Electronics Page:electronics.html](assets/images/electronicsss.png "Electronics Page: electronics.html")
 
 #### Jewellery Page
 
@@ -320,9 +307,8 @@ To fork the depository:
 
 ## Credits
 
-### Code Used
-
-For flex box coding, I used <https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/> to solve my footer not being fixed to the bottom of the page.
+## Code used
+- I added bootstrap mini.css for the corousal sliding in the website and Fontawesome kit for the icons on the footer page and previous and next icons aswell
 
 ### Content
 

@@ -642,7 +642,6 @@ a:hover {
 #main_slider .carousel-control-prev {
     width: 55px;
     height: 55px;
-    background-color: #30302e;
     opacity: 1;
     font-size: 30px;
     color: #ffffff;
@@ -682,7 +681,6 @@ a:hover {
 #electronic_main_slider .carousel-control-prev {
     width: 55px;
     height: 55px;
-    background-color: #30302e;
     opacity: 1;
     font-size: 30px;
     color: #ffffff;
@@ -728,7 +726,6 @@ a:hover {
 #jewellery_main_slider .carousel-control-prev {
     width: 55px;
     height: 55px;
-    background-color: #30302e;
     opacity: 1;
     font-size: 30px;
     color: #ffffff;
@@ -863,7 +860,15 @@ a:hover {
     text-align: center;
 }
 
+.svg_black {
+    fill: #000000;
+}
+.svg_white {
+    fill: #ffffff;
+}
+
 /* footer section end */
+
 
 
 
