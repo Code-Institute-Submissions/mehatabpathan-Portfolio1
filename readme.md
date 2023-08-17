@@ -300,6 +300,7 @@ To fork the depository:
 
 - After deploying the website I found out that the images were broken in the gallery page. This was due to absolute file paths. I fixed it by removing the initial slash and making the file paths relative.
 - In the deployed version, the background images for the rules and get in Register page were not covering the whole section on tablets and larger screens. I fixed it by adding a height property to the sections affected.
+- All font-awesome icons are loaded in svg format as font-awsome-kit is reducing the performance of the website
 
 ## Unsolved Bugs
 
