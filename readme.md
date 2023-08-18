@@ -125,9 +125,9 @@ As you embark on your shopping adventure with Shoppers Stop, you join a communit
 
 ### Colour Scheme
 
-![Website Colour Scheme](assets/images/coolors.png)
+![Website Colour Scheme](assets/images/coolorsimg.png)
 
-The website uses bright and light colours using HEX numbers for more variety, such as the header section (1 opacity) with this I later decided that some text was not clear enough with the opacity from the navigation bar which needed to be clear to viewers at all times, but I didn't want to change the colour scheme, so instead simply set the opacity to 1 instead of 0.8.  I chose this palette to keep the website fun and vibrant so it stands out and attracts potential clients. The #000000 black will be used for text, as well as #ffffff white for coloured background sections such as the banner image text and the i kept #000000 color for hamberger icon and text and #F0EC57 color for the background image. The colour palette was created using the Coolors website.
+The website uses bright and light colours using HEX numbers for more variety, such as the header section (1 opacity) with this I later decided that some text was not clear enough with the opacity from the navigation bar which needed to be clear to viewers at all times, but I didn't want to change the colour scheme, so instead simply set the opacity to 1 instead of 0.8.  I chose this palette to keep the website fun and vibrant so it stands out and attracts potential clients. The #000000 black will be used for text, as well as #ffffff white for coloured background sections such as the banner image text and the i kept #000000 color for hamberger icon and text and #F0EC57 color for the background image and for the footer i kept orange color to highlight the website. The colour palette was created using the Coolors website.
 
 For the HEX codes for the social media hover states, I used google to find out the HEX colours to match the social media"s colours of their logos. These are the colours that google suggested:
 
@@ -222,11 +222,7 @@ The register page includes a name,email,gender and phonenumber and submit button
 
 ![Register Page: register.html](assets/images/regis.png "Register Page: register.html")
  
- 
-
-
-
-### Future Implementations
+ ### Future Implementations
 
 In the future, I would like to add extra pages and Integrate AR technology to allow customers to virtually try on clothing, accessories, or even home décor items. This immersive experience helps users visualize products before purchasing.
 
