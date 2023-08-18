@@ -95,8 +95,6 @@ As you embark on your shopping adventure with Shoppers Stop, you join a communit
 ### First Time Visitor Goals
 
 - Discover Products
-- Find Specific Items
-- Understand Brand and Values
 - Evaluate Quality and Features
 - Check Prices and Promotions
 - Assess Trustworthiness and Security
@@ -110,14 +108,9 @@ As you embark on your shopping adventure with Shoppers Stop, you join a communit
 - Quickly Find Previously Viewed Items
 - Complete a Previous Purchase
 - Check Order Status and History
-- Browse New Arrivals or Updates
-- Use Loyalty Points or Discounts
-- Engage with Personalized Recommendations
-- Participate in Contests or Promotions 
+- Browse New Arrivals or Updates 
 - Sign Up for Subscription Services
 - Provide Feedback or Reviews
-- Explore Additional Categories
-- Engage with Content
 - Update Account Information
 
 ### Frequent Visitor Goals
@@ -345,6 +338,8 @@ I'd like to acknowledge the following people for helping me build this website.
 - For people in the slack community who are always there to help with coding queries that I have had.
 - For my mentor, AntonioRodriquez for guiding me and helping me to improve elements of the site to make it more user friendly.
 - For my toutor, Ed who helped me in the GitHub issue.
+
+I used this presentation to improve my Readme
 
 <https://docs.google.com/presentation/d/19_7r_To5bu7UjnZD87hrzWQi63Ij0YpaRH1XFnPZZe8/edit#slide=id.g1551aff15c5_1_0>
 
