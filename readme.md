@@ -199,6 +199,8 @@ This website is made up of the following pages:
 
 This page is an introduction. It begins with navigation menu serves as a roadmap to the various sections and pages of the website. It typically appears at the top of the homepage and allows visitors to easily access different categories, product pages, signup, and more. This is followed by carousel or slider is a dynamic element that displays a series of images or banners, often featuring promotions, new arrivals, or featured products. Call-to-action (CTA) buttons are prominently placed buttons that encourage specific actions, such as "Buy Now, "See More"," or "Next.". The footer section covers Social media icons or links connect users to the brand's social media profiles. These homepage controls collectively contribute to an intuitive and user-friendly browsing experience, helping visitors easily discover, engage with, and access the website's offerings and features.
 
+![Home Page: index.html](assets/images/home.png "Home Page: index.html")
+
 #### Fashion
 
 This page includes Featured categories are visually appealing sections highlighting specific Fashion or Clothing categories. Product quick links are thumbnail images or text links that lead to specific product pages or collections. Special offers or deals sections showcase discounts, promotions, or limited-time offers.
