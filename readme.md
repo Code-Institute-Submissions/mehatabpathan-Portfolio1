@@ -201,21 +201,40 @@ This page is an introduction. It begins with navigation menu serves as a roadmap
 
 ![Home Page: index.html](assets/images/home.png "Home Page: index.html")
 
+#### Mobile Home Page
+
+![Home Page: index.html](assets/images/mhome.png "Home Page: index.html")
+
 #### Fashion
 
 This page includes Featured categories are visually appealing sections highlighting specific Fashion or Clothing categories. Product quick links are thumbnail images or text links that lead to specific product pages or collections. Special offers or deals sections showcase discounts, promotions, or limited-time offers.
+
+![Fashion Page: fashion.html](assets/images/cloth.png "Fashion Page: fashion.html")
+
 
 #### Electronics
 
 This page includes Featured categories are visually appealing sections highlighting specific Electronics categories. Product quick links are thumbnail images or text links that lead to specific product pages or collections. Special offers or deals sections showcase discounts, promotions, or limited-time offers.
 
+![Electronics Page:electronics.html](assets/images/electric-page.png "Electronics Page: electropnics.html")
+
 #### Jewellery
 
 This page includes Featured categories are visually appealing sections highlighting specific Jwellery categories. Product quick links are thumbnail images or text links that lead to specific product pages or collections. Special offers or deals sections showcase discounts, promotions, or limited-time offers.
 
+![Jewellery Page: jewellery.html](assets/images/jewel-page.png "Jewellery Page: jewellery.html")
+
 #### Register
 
 The register page includes a name,email,gender and phonenumber and submit button.
+
+![Register Page: register.html](assets/images/regis.png "Register Page: register.html")
+ 
+ #### Mobile Register Page
+
+ ![Register Page: register.html](assets/images/mregis.png "Register Page: register.html")
+
+
 
 ### Future Implementations
 
