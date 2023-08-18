@@ -4,8 +4,9 @@ Welcome to Shoppers Stop, your ultimate destination for a captivating and seamle
 
 ![Shoppers Stop Responive website](assets/images/responsiveimg.png)
 
-[View Shoppers Stop Github pages](https://github.com/mehatabpathan/Portfolio1.git "View shoppers stsop Github pages")
-[View shoppers stop Live Website](https://mehatabpathan.github.io/Portfolio1/ "View Shoppers stsop Live Website")
+[View Shoppers Stop Github pages](https://github.com/mehatabpathan/Portfolio1.git "View shoppers stop Github pages")
+
+[View shoppers Stop Live Website](https://mehatabpathan.github.io/Portfolio1/ "View Shoppers stop Live Website")
 
 ![Static Badge](https://img.shields.io/badge/Last_Commit-August-red)
 ![Static Badge](https://img.shields.io/badge/Contributors-1-blue)
@@ -129,12 +130,6 @@ As you embark on your shopping adventure with Shoppers Stop, you join a communit
 
 The website uses bright and light colours using HEX numbers for more variety, such as the header section (1 opacity) with this I later decided that some text was not clear enough with the opacity from the navigation bar which needed to be clear to viewers at all times, but I didn't want to change the colour scheme, so instead simply set the opacity to 1 instead of 0.8.  I chose this palette to keep the website fun and vibrant so it stands out and attracts potential clients. The #000000 black will be used for text, as well as #ffffff white for coloured background sections such as the banner image text and the i kept #000000 color for hamberger icon and text and #F0EC57 color for the background image and for the footer i kept orange color to highlight the website. The colour palette was created using the Coolors website.
 
-For the HEX codes for the social media hover states, I used google to find out the HEX colours to match the social media"s colours of their logos. These are the colours that google suggested:
-
-Facebook logo: #666666
-Instagram logo: #666666
-Youtube logo: #666666
-twitter: #666666
 
 ### Typography
 
@@ -316,7 +311,7 @@ To fork the depository:
 ## Credits
 
 ## Code used
-- I added bootstrap mini.css for the corousal sliding in the website and Fontawesome kit for the icons on the footer page and previous and next icons aswell
+- I added bootstrap mini.css for the corousal sliding in the website and I downloaded each fontawesome icon in svg image format  and attached to the footer section.
 
 ### Content
 
@@ -330,10 +325,9 @@ All media used is from my own personal material that I use for promotional purpo
 
 I'd like to acknowledge the following people for helping me build this website.
 
-
-- For people in the slack community who are always there to help with coding queries that I have had.
 - For my mentor, AntonioRodriquez for guiding me and helping me to improve elements of the site to make it more user friendly.
-- For my toutor, Ed who helped me in the GitHub issue.
+- For my tutor, Ed who helped me in the GitHub issue.
+- for my Facilitator, Marko Tot who guided me with all the presentations that helped me to finish this project.
 
 I used this presentation to improve my Readme
 
@@ -343,11 +337,10 @@ I used this mark up cheat sheet that I found on the slack community for clear gu
 
 <https://github.com/tchapi/markdown-cheatsheet/blob/master/README.md>
 
-Shields.io badges we’re created for readme.md file using the markup code from:
+Shields.io badges were created for readme.md file using the markup code from:
 <https://shields.io/badges>
 
 I used this page to find different breakpoints to make certain page elments more responsive to different devices: <https://www.w3schools.com/howto/howto_css_media_query_breakpoints.asp>
 
-I realised this didn’t support smaller devices less than 600px so I googled what was the suggested @media size for small phones which google suggested as
 
 To help me choose the colours I liked for my project and to see different varieties for HEX and RGBA, I used: <https://htmlcolorcodes.com/color-picker/>
