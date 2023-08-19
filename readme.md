@@ -81,7 +81,7 @@ As you embark on your shopping adventure with Shoppers Stop, you join a communit
 
 ## User Stories
 
-### Client Goals
+### Client wants to see:
 
 - Increase Sales and Revenue
 - Expand Customer Base
@@ -93,7 +93,7 @@ As you embark on your shopping adventure with Shoppers Stop, you join a communit
 - Enhance Mobile Experience
 - Retain and Build Customer Loyalty
 
-### First Time Visitor Goals
+### First Time Visitor wants to see:
 
 - Discover Products
 - Evaluate Quality and Features
@@ -104,7 +104,7 @@ As you embark on your shopping adventure with Shoppers Stop, you join a communit
 - Contact Support if Needed
 - Make a Purchase 
 
-### Returning Visitor Goals
+### Returning Visitor 
 
 - Quickly Find Previously Viewed Items
 - Complete a Previous Purchase
@@ -114,7 +114,7 @@ As you embark on your shopping adventure with Shoppers Stop, you join a communit
 - Provide Feedback or Reviews
 - Update Account Information
 
-### Frequent Visitor Goals
+### Frequent Visitor 
 
 - Efficient Shopping Experience
 - Exclusive Offers and Rewards
@@ -297,6 +297,39 @@ To fork the depository:
 #### Style CSS 
 
 ![style Page: style.css](assets/images/styless.png "style Page: style.css")
+
+#### Accessibility
+
+The site achieved a Lighthouse accessibility score of 100% which confirms that the colours and fonts chosen are easy to read and accessible
+
+![Home Page: index.html](assets/images/lighthouse.png "Home Page: index.html")
+
+
+#### Form Testing
+The form has been tested to ensure it would not submit without the required input fields being filled in (full name and email address).
+
+#### Links Testing
+
+All navigation links were tested manually to ensure the user is directed to the correct section of the website.
+Social Media links in the footer of each page were tested manually to ensure they direct the user to the correct page and open in a new tab.
+
+#### Browser Testing
+
+The Website was tested on Google Chrome, Firefox, Microsoft Edge, Safari browsers with no issues noted.
+
+#### Device Testing
+
+The website was viewed on a variety of devices such as Desktop, Laptop, iPhone 8, iPhoneX and iPad to ensure responsiveness on various screen sizes. The website performed as intended. The responsive design was also checked using Chrome developer tools across multiple devices with structural integrity holding for the various sizes.
+
+I also used the following websites to test responsiveness:
+
+http://www.responsinator.com/?url=https%3A%2F%2Fmehatabpathan.github.io%2FPortfolio1%2F
+
+https://ui.dev/amiresponsive?url=https://mehatabpathan.github.io/Portfolio1/
+
+#### Friends and Family User Testing
+
+Friends and family members were asked to review the site and documentation to point out any bugs and/or user experience issues.
 
 ## Bugs
 
